@@ -5,7 +5,7 @@
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to install RSAT Tools using Optional Features. Installing RSAT (Remote Server Administration Tools) using optional features allows you to manage Windows Server roles and features from a Windows client computer (like Windows 10 or 11) without needing to log directly into the server.
+This project goes over how to install RSAT Tools using Optional Features. Installing RSAT (Remote Server Administration Tools) using Optional Features allows you to manage Windows Server roles and features from a Windows client computer (like Windows 10 or 11) without needing to log directly into the server.
 </b>
 
 
